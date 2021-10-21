@@ -14,10 +14,14 @@
                 <p>Здравствуйте, вы находитесь на сервисе по поиску домашних животных.</p>
                 <p>Для того что бы начать поиск вашего питомца нажмите на кнопку и заполните форму</p>
 
-                <form action="send.php" method="post">
-                    <input type="text" name="fio" placeholder="Укажите ФИО">
-                    <input type="text" name="email" placeholder="Укажите e-mail">
-                    <input type="submit" value="Отправить">
+                <form action="action_form.php" method="POST">
+                    <fieldset>
+                      <legend>Контактная информация</legend>
+                      <label>Email:<br><input type="text" name="email"></label><br>
+                      <label>Мобильный:<br><input type="text" name="mobile"></label><br>
+                      <label>Факс:<br><input type="text" name="fax"></label>
+                    </fieldset>
+                    <input type="submit">
                 </form>
 
             </article>
