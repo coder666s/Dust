@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <title>Поиск пропавших животных</title>
+        <link rel="stylesheet" href="CSS/style.css">
+    </head>
+    <body>
+        <header>
+           <img src="img/dog.svg" alt="img dog">
+           <h1>Поиск пропавших животных</h1>
+        </header>
+        <main>
+            <article>
+                <p>Здравствуйте, вы находитесь на сервисе по поиску домашних животных.</p>
+                <p>Для того что бы начать поиск вашего питомца нажмите на кнопку и заполните форму</p>
+
+                <form action="send.php" method="post">
+                    <input type="text" name="fio" placeholder="Укажите ФИО">
+                    <input type="text" name="email" placeholder="Укажите e-mail">
+                    <input type="submit" value="Отправить">
+                </form>
+
+            </article>
+            <div class="info_pet">
+                <div class="filter">
+                    <select>
+                        <option>Животное</option>
+                        <option>Собака</option>
+                        <option>Кошка</option>
+                        <option>Другое</option>
+                    </select>
+                    <select>
+                        <option>Цвет</option>
+                        <option>Белый</option>
+                        <option>Палевой</option>
+                        <option>Рыжий</option>
+                        <option>Серый</option>
+                        <option>Черный</option>
+                        <option>Коричневый</option>
+                    </select>
+                        <select>
+                        <option>Хвост</option>
+                        <option>Длинный</option>
+                        <option>Короткий</option>
+                        <option>Нет хвоста</option>
+                    </select>
+                </div>
+            </div>
+            <div class="start_search">
+                <a href="pages/webcamera.html">Начать поиск</a>
+            </div>
+        </main>
+    </body>
+</html>
