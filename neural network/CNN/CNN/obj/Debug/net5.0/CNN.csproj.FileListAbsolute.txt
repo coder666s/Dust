@@ -1,0 +1,25 @@
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\CNN.exe
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\CNN.deps.json
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\CNN.runtimeconfig.json
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\CNN.runtimeconfig.dev.json
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\CNN.dll
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\ref\CNN.dll
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\CNN.pdb
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\NeuralNetworkV2.dll
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\PictureConsole.dll
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\obj\Debug\net5.0\CNN.csprojAssemblyReference.cache
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\obj\Debug\net5.0\CNN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\obj\Debug\net5.0\CNN.AssemblyInfoInputs.cache
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\obj\Debug\net5.0\CNN.AssemblyInfo.cs
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\obj\Debug\net5.0\CNN.csproj.CoreCompileInputs.cache
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\obj\Debug\net5.0\CNN.csproj.CopyComplete
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\obj\Debug\net5.0\CNN.dll
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\obj\Debug\net5.0\ref\CNN.dll
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\obj\Debug\net5.0\CNN.pdb
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\obj\Debug\net5.0\CNN.genruntimeconfig.cache
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\Neuron convolution.dll
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\akimp\OneDrive\Рабочий стол\CNN\CNN\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll

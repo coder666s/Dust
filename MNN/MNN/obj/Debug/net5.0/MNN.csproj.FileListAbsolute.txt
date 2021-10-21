@@ -1,0 +1,16 @@
+E:\C#_VISUAL_STUDIO\MNN\MNN\bin\Debug\net5.0\MNN.exe
+E:\C#_VISUAL_STUDIO\MNN\MNN\bin\Debug\net5.0\MNN.deps.json
+E:\C#_VISUAL_STUDIO\MNN\MNN\bin\Debug\net5.0\MNN.runtimeconfig.json
+E:\C#_VISUAL_STUDIO\MNN\MNN\bin\Debug\net5.0\MNN.runtimeconfig.dev.json
+E:\C#_VISUAL_STUDIO\MNN\MNN\bin\Debug\net5.0\MNN.dll
+E:\C#_VISUAL_STUDIO\MNN\MNN\bin\Debug\net5.0\ref\MNN.dll
+E:\C#_VISUAL_STUDIO\MNN\MNN\bin\Debug\net5.0\MNN.pdb
+E:\C#_VISUAL_STUDIO\MNN\MNN\obj\Debug\net5.0\MNN.csproj.AssemblyReference.cache
+E:\C#_VISUAL_STUDIO\MNN\MNN\obj\Debug\net5.0\MNN.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_VISUAL_STUDIO\MNN\MNN\obj\Debug\net5.0\MNN.AssemblyInfoInputs.cache
+E:\C#_VISUAL_STUDIO\MNN\MNN\obj\Debug\net5.0\MNN.AssemblyInfo.cs
+E:\C#_VISUAL_STUDIO\MNN\MNN\obj\Debug\net5.0\MNN.csproj.CoreCompileInputs.cache
+E:\C#_VISUAL_STUDIO\MNN\MNN\obj\Debug\net5.0\MNN.dll
+E:\C#_VISUAL_STUDIO\MNN\MNN\obj\Debug\net5.0\ref\MNN.dll
+E:\C#_VISUAL_STUDIO\MNN\MNN\obj\Debug\net5.0\MNN.pdb
+E:\C#_VISUAL_STUDIO\MNN\MNN\obj\Debug\net5.0\MNN.genruntimeconfig.cache
