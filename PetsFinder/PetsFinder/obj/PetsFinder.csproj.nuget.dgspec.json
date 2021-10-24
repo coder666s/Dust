@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\TrushinVlad\\source\\repos\\PetsFinder\\PetsFinder\\PetsFinder.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\TrushinVlad\\source\\repos\\PetsFinder\\PetsFinder\\PetsFinder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TrushinVlad\\source\\repos\\PetsFinder\\PetsFinder\\PetsFinder.csproj",
+        "projectName": "PetsFinder",
+        "projectPath": "C:\\Users\\TrushinVlad\\source\\repos\\PetsFinder\\PetsFinder\\PetsFinder.csproj",
+        "packagesPath": "C:\\Users\\TrushinVlad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TrushinVlad\\source\\repos\\PetsFinder\\PetsFinder\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TrushinVlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ImageClassification": {
+              "target": "Package",
+              "version": "[1.5.5.3, )"
+            },
+            "ImageClassification.IO": {
+              "target": "Package",
+              "version": "[1.5.5.3, )"
+            },
+            "ImageClassificationGPU": {
+              "target": "Package",
+              "version": "[1.5.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
